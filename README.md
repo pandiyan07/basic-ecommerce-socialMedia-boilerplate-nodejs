@@ -20,7 +20,7 @@
 4. express-validator is used for validating the forms.
 
 ## Features THAT I WANT TO INCLUDE :-
-( YOUR CONTRIBUTIONS AND PUSH REQUESTS ARE WELCOMED )
+( YOUR CONTRIBUTIONS AND PUSH REQUESTS ARE ALWAYS WELCOMED )
 1. use "connect-mongo" npm module for storing sessions in the mongodb database.
 2. use "nodemailer" npm module for mailing blog posts or notifications 
    from this website automatically to the user's mail ID 
