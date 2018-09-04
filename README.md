@@ -1,5 +1,8 @@
 # Basic Ecommerce/Social-Media boilerplate using Nodejs/Expressjs and Mongodb
 
+## Install all required dependencies
+> npm install
+
 ## Push requests contributuions are welcomed  :) 
     PLEASE ADD MORE FEATURES that you think, MUST BE INCLUDED in this boilerplate project.
 
