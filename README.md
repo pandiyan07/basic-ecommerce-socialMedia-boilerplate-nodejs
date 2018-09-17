@@ -1,6 +1,7 @@
 # Basic Ecommerce/Social-Media boilerplate using Nodejs/Expressjs and Mongodb
 
 ## Install all required dependencies
+open command line and get into the project directory and then run this following command
 > npm install
 
 ## Push requests contributuions are welcomed  :) 
