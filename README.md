@@ -4,7 +4,7 @@
 open command line and get into the project directory and then run this following command
 > npm install
 
-## Push requests contributuions are welcomed  :) 
+## Push requests contributions are welcomed  :) 
     PLEASE ADD MORE FEATURES that you think, MUST BE INCLUDED in this boilerplate project.
 
 ## Features available in this project :-
