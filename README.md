@@ -6,9 +6,13 @@ open command line and get into the project directory and then run this following
 
 ## Push requests contributions are welcomed  :) 
     PLEASE ADD MORE FEATURES that you think, MUST BE INCLUDED in this boilerplate project.
+## Features that are not woking properly :-
+1. Uploading the file is not working properly for some unknown reason
 
 ## Features available in this project :-
 1. Incudes a LOGIN and REGISTERATION form with "a complete set of functionality".
+2. Has a file uploading ability
+3. Can send email to your specified gmail account when a user sumbits details in the contacts form
 
 ## THINGS TO DO before you DOWNLOAD & RUN this program.
 1. Install Nodejs (I used node v8.11.4 and npm v6.4.0)
